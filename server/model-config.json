@@ -38,5 +38,13 @@
   "Language": {
     "dataSource": "db",
     "public": true
+  },
+  "student": {
+    "dataSource": "db",
+    "public": false
+  },
+  "test": {
+    "dataSource": "db",
+    "public": true
   }
 }
